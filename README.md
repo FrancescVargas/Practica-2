@@ -14,5 +14,5 @@ Lo hicimos entre dos compañeros: Raimon Carbonell y yo, Francesc Vargas
 - Nosotros utilizamos el **Xampp** como emulador de servidor para poder ejecutar el programa.
 - Instalar **[composer](https://getcomposer.org/)**.
 - Debéis crear en la raíz un enrutamiento "_/Francesc_" y desde ahí realizar el clone (para que no hayan problemas con el enrutamiento de las vistas)
-- Ahora toca instalar lo necesario para que funcione bien (PHP-Slim y PHP-view). Una vez realizado el clonado a través de _GIT_, deberás acceder a la carpeta "_entrenador_" a través de la interfaz de comandos y ejecutar el comando ***composer install***.
+- Ahora toca instalar lo necesario para que funcione bien (PHP-Slim y PHP-view). Una vez realizado el clonado a través de _GIT_, deberás acceder a la carpeta "_Practica-2_" a través de la interfaz de comandos y ejecutar el comando ***composer install***.
 - Lleva un archivo llamado ***instalacion.php*** que sirve para crear la base de datos y añadirle algunos registros con los que trabajar
